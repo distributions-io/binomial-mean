@@ -6,8 +6,8 @@ Mean
 
 The [expected value](https://en.wikipedia.org/wiki/Expected_value) for a [Binomial](https://en.wikipedia.org/wiki/Binomial_distribution) random variable is
 
-<div class="equation" align="center" data-raw-text="\mathbb{E}\left[ n * p \right]" data-equation="eq:expectation">
-	<img src="" alt="Expected value for a Binomial distribution.">
+<div class="equation" align="center" data-raw-text="\mathbb{E}\left[ X \right] = n p" data-equation="eq:expectation">
+	<img src="https://cdn.rawgit.com/distributions-io/binomial-mean/09ff27007a4631a833425d5ab6f0c6d6f89b2bf5/docs/img/eqn.svg" alt="Expected value for a Binomial distribution.">
 	<br>
 </div>
 
