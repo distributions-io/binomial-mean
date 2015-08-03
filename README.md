@@ -103,7 +103,7 @@ var out = mean( n, 0.2, {
 // returns [ 2, 4, 6, 8 ]
 ```
 
-When evaluating the [Beta function](https://en.wikipedia.org/wiki/Beta_function) for values of two object `arrays`, provide an accessor `function` which accepts `3` arguments.
+When computing the [expected value](https://en.wikipedia.org/wiki/Expected_value) for parameter values of two object `arrays`, provide an accessor `function` which accepts `3` arguments.
 
 ``` javascript
 var n = [
